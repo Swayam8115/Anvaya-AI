@@ -4,6 +4,13 @@
 
 Anvaya-AI is an advanced clinical trial intelligence platform designed to provide real-time visibility and predictive insights into clinical study performance. By integrating multi-source clinical data, Anvaya-AI empowers data managers and clinical leads to identify risks, monitor compliance, and ensure data integrity through an intuitive, AI-powered interface.
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="public/ss1.png" width="45%" />
+  <img src="public/ss2.png" width="45%" />
+</p>
+
 ## 🚀 Key Features
 
 - **Clinical Intelligence Dashboard**: A high-level overview of trial health, including active subjects, query density, and data quality scores.
