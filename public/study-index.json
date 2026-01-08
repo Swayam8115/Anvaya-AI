@@ -1,0 +1,366 @@
+[
+  {
+    "id": "study-1_cpid_input-files---anonymization",
+    "name": "STUDY 1",
+    "folder": "Study 1_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 1_Compiled_EDRR_updated.xlsx",
+      "Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx",
+      "Study 1_eSAE Dashboard_Standard DM_Safety Report_updated.xlsx",
+      "Study 1_GlobalCodingReport_MedDRA_updated.xlsx",
+      "Study 1_GlobalCodingReport_WHODD_updated.xlsx",
+      "Study 1_Inactivated Forms, Folders and  Records Report_updated.xlsx",
+      "Study 1_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx",
+      "Study 1_Missing_Pages_Report_URSV3.0_14 NOV 2025_updated.xlsx",
+      "Study 1_Visit Projection Tracker_14NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-2_cpid_input-files---anonymization",
+    "name": "STUDY 2",
+    "folder": "STUDY 2_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Inactivated_updated.xlsx",
+      "SAE Dashboard_updated.xlsx",
+      "Study 2_Compiled_EDRR_2025_updated.xlsx",
+      "Study 2_GlobalCodingReport_Medra_updated.xlsx",
+      "Study 2_GlobalCodingReport_WHOdra_updated.xlsx",
+      "Study 2_Global_Missing_Pages_Report_20251107_updated.xlsx",
+      "Study 2_Missing_Lab_Name_and_Missing_Ranges.xlsx",
+      "Study 2_Visit Projection Tracker.xlsx"
+    ]
+  },
+  {
+    "id": "study-4_cpid_input-files---anonymization",
+    "name": "STUDY 4",
+    "folder": "Study 4_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC Metrics_URSV2.0_updated.xlsx",
+      "eSAE Dashboard DM_Safety_08Oct2025_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Inactivated report for metrics_20Oct 2025_updated.xlsx",
+      "Study 4_Compiled_EDRR_2025_Nov_14_13_32_27_updated.xlsx",
+      "Study 4_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx",
+      "Study 4_Missing_page_report_13Nov2025_updated.xlsx",
+      "Study 4_Visit Projection Tracker_10NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-5_cpid_input-files---anonymization",
+    "name": "STUDY 5",
+    "folder": "Study 5_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 5_Compiled EDRR_updated.xlsx",
+      "Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Study 5_eSAE_Dashboard_DM_Safety_updated.xlsx",
+      "Study 5_Global Missing Pages_updated.xlsx",
+      "Study 5_GlobalCodingReport_MedDRA_updated.xlsx",
+      "Study 5_GlobalCodingReport_WHODD_updated.xlsx",
+      "Study 5_Inactivated Forms and Folders_updated.xlsx",
+      "Study 5_Missing_Lab_Name_And_Missing_Ranges_updated.xlsx",
+      "Study 5_Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-6-_cpid_input-files---anonymization",
+    "name": "STUDY 6",
+    "folder": "Study 6 _CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled_EDRR_updated.xlsx",
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "eSAE Dashboard DM_Safety 1_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Global_Missing_Pages_Report_updated.xlsx",
+      "Inactivated forms and folder_updated.xlsx",
+      "Missing_Lab_Name_and_Missing_Ranges_updated.xlsx",
+      "Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-7_cpid_input-files---anonymization",
+    "name": "STUDY 7",
+    "folder": "Study 7_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 7_Compiled EDRR_Standard Metrics_updated.xlsx",
+      "Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Study 7_eSAE Dashboard DM_Safety_13NOV2025_updated.xlsx",
+      "Study 7_GlobalCodingReport_medDRA_updated.xlsx",
+      "Study 7_GlobalCodingReport_whoDrug_updated.xlsx",
+      "Study 7_Global_Missing_Pages_Report_13Nov2025_updated.xlsx",
+      "Study 7_Inactivated pages_13Nov2025_updated.xlsx",
+      "Study 7_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx",
+      "Study 7_Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-8_cpid_input-files---anonymization",
+    "name": "STUDY 8",
+    "folder": "Study 8_CPID_Input Files - Anonymization",
+    "files": [
+      "SAE Dashboard_Standard Metrics_13Nov2025_updated.xlsx",
+      "Study 8_Compiled_EDRR_2025_Nov_13_20_00_17_updated.xlsx",
+      "Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx",
+      "Study 8_GlobalCodingReport_MedDRA_13Nov2025_updated.xlsx",
+      "Study 8_GlobalCodingReport_WHODD_13Nov2025_updated.xlsx",
+      "Study 8_Global_Missing_Pages_Report_URSV3.0_13Nov2025_updated.xlsx",
+      "Study 8_Inactivated Folders, Forms and Records Report_13Nov2025_updated.xlsx",
+      "Study 8_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx",
+      "Study 8_Visit Projection Tracker_13NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-9_cpid_input-files---anonymization",
+    "name": "STUDY 9",
+    "folder": "Study 9_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx",
+      "GlobalCodingReport _WHODrug_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx",
+      "Inactivated pages_updated.xlsx",
+      "Study 9_Compiled_EDRR_18JUL2025_updated.xlsx",
+      "Study 9_eSAE Dashboard_DM_Safety_updated.xlsx",
+      "Study 9_Missing_Lab_Name_and_Missing_Ranges_IDR_12NOV2025_updated.xlsx",
+      "Study 9_Visit Projection Tracker_12NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-10_cpid_input-files---anonymization",
+    "name": "STUDY 10",
+    "folder": "Study 10_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 10_Compiled_EDRR_14-Nov-2025_updated.xlsx",
+      "Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx",
+      "Study 10_eSAE Dashboard_DM_Safety_updated.xlsx",
+      "Study 10_GlobalCodingReport_MedDRA_14-Nov-2025_updated.xlsx",
+      "Study 10_GlobalCodingReport_WHODD-14-Nov-2025_updated.xlsx",
+      "Study 10_Global_Missing_Pages_Report_14-Nov-2025_updated.xlsx",
+      "Study 10_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx",
+      "Study 10_Visit Projection Tracker_14NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-11_cpid_input-files---anonymization",
+    "name": "STUDY 11",
+    "folder": "Study 11_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 11_Compiled_EDRR_2025_Oct_27_updated.xlsx",
+      "Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Study 11_Global_Missing_Pages_Report_URSV5.0_updated.xlsx",
+      "Study 11_inactivated reprot_updated.xlsx",
+      "Study 11_MedDRA_updated.xlsx",
+      "Study 11_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx",
+      "Study 11_SAE Dashboard_Standard Metrics_14Nov2025_updated.xlsx",
+      "Study 11_Visit Projection Tracker_13NOV2025_updated.xlsx",
+      "Study 11_WHODD_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-13_cpid_input-files---anonymization",
+    "name": "STUDY 13",
+    "folder": "Study 13_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 13_Compiled_EDRR_14Nov25_updated.xlsx",
+      "Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx",
+      "Study 13_Global_Missing_Pages_Report_URSV3.0_14Nov25_updated.xlsx",
+      "Study 13_Inactivated Folders, Forms and Records Report_14Nov25_updated.xlsx",
+      "Study 13_MedDRA_14Nov25_updated.xlsx",
+      "Study 13_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx",
+      "Study 13_SAE Dashboard_Standard Metrics Input file_14Nov25_updated.xlsx",
+      "Study 13_Visit Projection Tracker_14NOV2025_updated.xlsx",
+      "Study 13_WHODD_14Nov25_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-14_cpid_input-files---anonymization",
+    "name": "STUDY 14",
+    "folder": "Study 14_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "GlobalCodingReport_MedRA CodingReport_Nov2025_updated.xlsx",
+      "GlobalCodingReport_WHODrug Coding Report_Nov 2025_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0_updated.xlsx",
+      "SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx",
+      "Study 14_Compiled_EDRR_2025_Nov_13_updated.xlsx",
+      "Study 14_Inactivated Folders, Forms and Report_13NOV2025_updated.xlsx",
+      "Study 14_Missing_Lab_Name_and_Missing_Ranges_IDR_NICR_13NOV2025_updated.xlsx",
+      "Study 14_Visit Projection Tracker_13NOV2025_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-15_cpid_input-files---anonymization",
+    "name": "STUDY 15",
+    "folder": "STUDY 15_CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled EDRR_Standard Metrics_updated.xlsx",
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0_updated.xlsx",
+      "Inactivated Folders Forms and Records Report_updated.xlsx",
+      "Missing_Lab_Name_and_Missing_Ranges_IDR_updated.xlsx",
+      "SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx",
+      "Visit Projection tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-16_cpid_input-files---anonymization",
+    "name": "STUDY 16",
+    "folder": "Study 16_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx",
+      "eSAE_updated_30-Oct-2025_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0 (17)_updated.xlsx",
+      "Inactivated Folders, Forms and Records Report_updated.xlsx",
+      "Study 16_Compiled_EDRR_updated.xlsx",
+      "Study 16_Missing_Lab_Name_and_Missing_Ranges_updated.xlsx",
+      "Study 16_Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-17_cpid_input-files---anonymization",
+    "name": "STUDY 17",
+    "folder": "Study 17_CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled EDRR_updated.xlsx",
+      "CPID_EDC Metrics_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Inactivated Form Folder Report_updated.xlsx",
+      "Missing Lab & Range Report_updated.xlsx",
+      "Missing Page Report_updated.xlsx",
+      "SAE Dashboard_updated.xlsx",
+      "Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-18_cpid_input-files---anonymization",
+    "name": "STUDY 18",
+    "folder": "Study 18_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 18_Compiled EDRR_Standard Metrics Input file template_V1.0_updated.xlsx",
+      "Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Study 18_GlobalCodingReport_MedDRA_updated.xlsx",
+      "Study 18_GlobalCodingReport_WHODD_updated.xlsx",
+      "Study 18_Global_Missing_Pages_Report_URSV3.0 (18)_updated.xlsx",
+      "Study 18_Inactivated page report_updated.xlsx",
+      "Study 18_Missing LNR_Standard Metrics Input File template V2.0_updated.xlsx",
+      "Study 18_SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx",
+      "Study 18_Visit Projection tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-19_cpid_input-files---anonymization",
+    "name": "STUDY 19",
+    "folder": "STUDY 19_CPID_Input Files - Anonymization",
+    "files": [
+      "Study 19_Compiled_EDRR_updated.xlsx",
+      "Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Study 19_eSAE Dashboard DM_Safety_updated.xlsx",
+      "Study 19_Global_Missing_Pages_Report_URSV3.0_updated.xlsx",
+      "Study 19_Inactivated Form Folder Report_updated.xlsx",
+      "Study 19_MedDRA_updated.xlsx",
+      "Study 19_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx",
+      "Study 19_Visit Projection Tracker_14NOV2025_updated.xlsx",
+      "Study 19_WHODD_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-20__cpid_input-files---anonymization",
+    "name": "STUDY 20",
+    "folder": "STUDY 20__CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled_EDRR_updated.xlsx",
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "eSAE Dashboard DM_Safety_updated.xlsx",
+      "GlobalCodingReport MedDRA_updated.xlsx",
+      "GlobalCodingReport WHODrug_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx",
+      "Inactivated Form Folder Report_updated.xlsx",
+      "Missing_Lab_Name_and_Missing_Ranges_updated.xlsx",
+      "Visit Projection Tracker_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-21_cpid_input-files---anonymization",
+    "name": "STUDY 21",
+    "folder": "STUDY 21_CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled_EDRR_2025_Nov_12_12_17_01_updated.xlsx",
+      "CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx",
+      "Global Coding Report_Medra 4_updated.xlsx",
+      "Global Coding Report_WHODD 4_updated.xlsx",
+      "Inactivated report_updated.xlsx",
+      "Study 21_Missing_Pages_Report_06Nov2025_updated.xlsx",
+      "Study 21_Visit_Projection_Tracker_1_30OCT2025_NIMMASW1.xls (2)_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-22_cpid_input-files---anonymization",
+    "name": "STUDY 22",
+    "folder": "STUDY 22_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx",
+      "Missing LNR_Standard Metrics Input File template_updated.xlsx",
+      "Study 22_Compiled EDRR_updated.xlsx",
+      "Study 22_eSAE Dashboard_DM_Safety_updated.xlsx",
+      "Study 22_Global Missing Pages Report_updated.xlsx",
+      "Study 22_GlobalCodingReport_MedDRA_updated.xlsx",
+      "Study 22_GlobalCodingReport_WHODD_updated.xlsx",
+      "Study 22_Inactivated Page Report_updated.xlsx",
+      "Study 22_Missing visit_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-23_cpid_input-files---anonymization",
+    "name": "STUDY 23",
+    "folder": "STUDY 23_CPID_Input Files - Anonymization",
+    "files": [
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Global_Missing_Pages_Report_URSV3.0_13 Nov 25_updated.xlsx",
+      "Inactivated Folders, Forms and Records Report_13 Nov 25_updated.xlsx",
+      "SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx",
+      "Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx",
+      "Study 23_Compiled_EDRR_2025_Nov_10_updated.xlsx",
+      "Study 23_Visit_Projection_Tracker_TRIPAASB_13NOV25_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-24_cpid_input-files---anonymization",
+    "name": "STUDY 24",
+    "folder": "STUDY 24_CPID_Input Files - Anonymization",
+    "files": [
+      "Compiled EDRR_updated.xlsx",
+      "eSAE dashboard_DM_Safety_updated.xlsx",
+      "GlobalCodingReport_MedDRA_updated.xlsx",
+      "GlobalCodingReport_WHODD_updated.xlsx",
+      "Global_Missing_Pages_Report_updated.xlsx",
+      "Inactivated Forms and Folders_updated.xlsx",
+      "Missing_Lab_Name_and_Missing_Ranges.xls_updated.xlsx",
+      "Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "Visit Projection Tracker.xls_updated.xlsx"
+    ]
+  },
+  {
+    "id": "study-25_cpid_input-files---anonymization",
+    "name": "STUDY 25",
+    "folder": "Study 25_CPID_Input Files - Anonymization",
+    "files": [
+      "CPID_EDC_Metrics_URSV2.0_updated.xlsx",
+      "eSAE dashboard_DM_Safety 1_updated.xlsx",
+      "GlobalCodingReport_MedDRA 6_updated.xlsx",
+      "GlobalCodingReport_WHODD 6_updated.xlsx",
+      "Global_Missing_Pages_Report_updated.xlsx",
+      "Inactivated forms and folder_updated.xlsx",
+      "Missing_Lab_Name_and_Missing_Ranges_updated.xlsx",
+      "Study 25_Compiled_EDRR_2025_Sep_24_10_52_25_updated.xlsx",
+      "Visit Projection Tracker_updated.xlsx"
+    ]
+  }
+]
