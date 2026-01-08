@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Anvaya-AI
 
-## Project info
+**Powered by Team Samuha**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Anvaya-AI is an advanced clinical trial intelligence platform designed to provide real-time visibility and predictive insights into clinical study performance. By integrating multi-source clinical data, Anvaya-AI empowers data managers and clinical leads to identify risks, monitor compliance, and ensure data integrity through an intuitive, AI-powered interface.
 
-## How can I edit this code?
+## 🚀 Key Features
 
-There are several ways of editing your application.
+- **Clinical Intelligence Dashboard**: A high-level overview of trial health, including active subjects, query density, and data quality scores.
+- **AI Insights Engine**: Natural language analysis of study data to identify:
+  - High-risk sites for data integrity.
+  - MedDRA & WHODD coding backlogs.
+  - Patient dropout and retention risks.
+  - SAE reporting and regulatory compliance gaps.
+- **Multi-Study Management**: Seeded randomization logic allows for consistent, study-specific data variations across the entire trial portfolio.
+- **Automatic Data Processing**: Direct ingestion and parsing of standardized clinical datasets (EDC Metrics, Visit Projections, SAE Dashboards).
+- **Responsive Analytics**: Deep dives into site-level performance, subject status tracking, and query resolution metrics.
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- **Framework**: [Vite](https://vitejs.dev/) + [React](https://reactjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **State Management**: [TanStack Query (React Query)](https://tanstack.com/query/latest)
+- **UI Components**: [Radix UI](https://www.radix-ui.com/), [Shadcn UI](https://ui.shadcn.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Data Engineering**: [XLSX](https://sheetjs.com/) for complex Excel parsing.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📂 Project Structure
 
-**Use your preferred IDE**
+- `src/services/dataService.ts`: Core logic for dataset processing and study variations.
+- `src/components/sections/InsightsSection.tsx`: AI analysis engine and suggested prompts.
+- `src/utils/excelParser.ts`: Utility for converting clinical Excel files to JSON.
+- `public/dataset/`: Local storage for anonymized study files.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🏁 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- [Node.js](https://nodejs.org/) (v18 or higher)
+- [npm](https://www.npmjs.com/) or [bun](https://bun.sh/)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Swayam8115/Anvaya-AI.git
+   cd Anvaya-AI
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-**Edit a file directly in GitHub**
+## 📊 Dataset Requirements
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Anvaya-AI expects study data in the `public/dataset/` directory, organized by study folders. Supported file types include standardized exports for:
+- EDC Metrics (Query counts, Subject status)
+- Visit Projections (Overdue visits, scheduling)
+- SAE/eSAE Dashboards (Regulatory reporting metrics)
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Developed with ❤️ by **Team Samuha**.
